@@ -7,7 +7,7 @@ echo "Welcome to computation"
 
 #constant
 IS_PRESENT=1
-WAGE_PER_HR=80
+WAGE_PER_HR=1000
 #variable
 empCheck=$(( RANDOM % 2))
 
